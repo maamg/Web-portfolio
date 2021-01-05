@@ -34,3 +34,33 @@ section{
     background-repeat: no-repeat;
 
 }
+p{
+    color: dimgrey;
+}
+.experience-half{
+    height: 390px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+   
+}
+.experience{
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+#Full_Stack{
+    border-left: 7px solid;
+    border-image: linear-gradient( 180deg, lightSalmon, tomato);
+    border-image-slice: 1;
+    
+}
+#Baby{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, DarkViolet, tomato);
+    border-image-slice: 1;
+    
+}
+footer{
+    margin-left: 460px;
+}
